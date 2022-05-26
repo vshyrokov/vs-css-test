@@ -1,0 +1,27 @@
+body {
+  padding: 45px;
+}
+
+.container {
+  margin: 0 auto;
+  background: #91aa9d;
+  width: 220px;
+  border-radius: 3px;
+  padding: 5px;
+  height: 60px;
+}
+
+.block {
+  background: #3e606f;
+  border-radius: 3px;
+  padding: 5px;
+  color: #d1dbbd;
+  text-align: center;
+  float: left;
+  width: 100px;
+  height: 50px;
+}
+
+.block:first-child {
+  margin-right: 10px;
+}
